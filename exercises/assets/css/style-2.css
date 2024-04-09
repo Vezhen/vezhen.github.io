@@ -12,6 +12,7 @@ input, button, textarea, select { font: inherit }
 
 /* ====== PADDING AROUND WEB PAGE BODY CONTENT ======  */
 body { padding: 4% 20% }
+body { background-color: purple; }
 
 /* Desktops */
 @media (min-width: 768px) {
@@ -31,6 +32,7 @@ h1 {color: white;
     text-align: center;
     font-weight: normal;
     letter-spacing: 4px;
+    color: white;
 }
 
 h2 {color: white;
