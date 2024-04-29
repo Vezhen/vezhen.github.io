@@ -240,13 +240,13 @@ body { background-color: lightblue; }
     section { padding: 5% 5% }
  }
 
- section-1 {background-color: var(--trend-300)  }
+ .section-1 {background-color: var(--trend-300)  }
 
- section-2 {background-color: var(--sky-300); }
+ .section-2 {background-color: var(--sky-300); }
 
- section-3 {background-color: var(--lime-300); }
+ .section-3 {background-color: var(--lime-300); }
 
- section-4 {background-color: var(--trend-700); }
+ .section-4 {background-color: var(--trend-700); }
 
  .section-4 h2, 
  .section-4 p {color: #fff }
