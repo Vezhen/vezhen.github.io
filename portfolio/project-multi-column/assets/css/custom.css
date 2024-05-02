@@ -1,0 +1,14 @@
+/* Add your custom CSS here */
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400;700&family=Playfair+Display:wght@400;700&family=Saira+Condensed:wght@700&display=swap" rel="stylesheet">
+
+
+.section-selector-1 h2 {
+    font-family: 'Saira Condensed', sans-serif;
+    letter-spacing: 1px; 
+}
+.section-selector-1 { background-color: var(--lime-400) }
+
+
+.section-selector-2 { font-family: 'Playfair Display', serif }
