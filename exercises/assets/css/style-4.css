@@ -31,12 +31,11 @@ input, button, textarea, select { font: inherit }
 /* Web page */
 body {
     background-color: #FFFFBD;
-    font-family: Merriweather, serif;
+    font-family: 'Merriweather', serif;
 }
 
 /* Main heading */
-h1 {
-    font-family: serif;    
+h1 {   
     font-size: var(--fs-xxxl);
     line-height: 1.1;
     font-weight: normal;
@@ -47,8 +46,7 @@ h1 {
 }
 
 /* Small headings */
-h2 {
-    font-family: serif;    
+h2 {   
     font-size: var(--fs-md);
     color:#3434B0;
     line-height: 1.5;
@@ -56,8 +54,7 @@ h2 {
 }
 
 /* Smaller headings */
-h3 {
-    font-family: serif;    
+h3 { 
     font-size: var(--fs-lg);
     color: #000;
     letter-spacing:-1px;
